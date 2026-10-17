@@ -1,0 +1,3 @@
+LifeStock AI PWA
+HTTPS対応のWebサーバーへフォルダ一式を配置してください。
+データは端末のlocalStorageに保存されます。
